@@ -1,0 +1,87 @@
+﻿@model IDGS904ASP.Models.Cinepolis
+@{
+    ViewBag.Title = "Cinepolis";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/Content/cinepolis.css")
+
+    <style>
+        body {
+            background-image: url('@Url.Content("~/Content/logo.png")');
+        }
+    </style>
+</head>
+<body>
+    <div class="cinepolis-container">
+        <div class="cinepolis-header">Cinepolis</div>
+
+        @using (Html.BeginForm("Index", "Cinepolis", FormMethod.Post, new { id = "cinepolisForm" }))
+        {
+            <div class="cinepolis-top-row">
+                <fieldset class="cinepolis-fieldset">
+                    <legend>Entradas</legend>
+
+                    <div class="cinepolis-form-group">
+                        <label>Nombre</label>
+                        <input type="text" name="Nombre" class="cinepolis-input" value="@ViewBag.Nombre" required />
+                    </div>
+
+                    <div class="cinepolis-form-group">
+                        <label>Cantidad Compradores</label>
+                        <input type="number" name="CantidadCompradores" class="cinepolis-input" required min="1" />
+                    </div>
+
+                    <div class="cinepolis-form-group">
+                        <label>Tarjeta Cineco</label>
+                        <div class="cinepolis-radio-group">
+                            <label><input type="radio" name="TarjetaCineco" value="true" /> Si</label>
+                            <label><input type="radio" name="TarjetaCineco" value="false" checked /> No</label>
+                        </div>
+                    </div>
+
+                    <div class="cinepolis-form-group">
+                        <label>Cantidad De Boletas</label>
+                        <input type="number" name="CantidadBoletos" class="cinepolis-input" required min="1" />
+                    </div>
+                </fieldset>
+
+                <fieldset class="cinepolis-fieldset" style="height: fit-content;">
+                    <legend>Salidas</legend>
+
+                    <div class="cinepolis-form-group">
+                        <label>Valor a Pagar</label>
+                        <input type="text" readonly class="cinepolis-input" value="@(ViewBag.Total != null ? "$" + ViewBag.Total.ToString("0.00") : "")" />
+                    </div>
+                </fieldset>
+            </div>
+
+            <div class="cinepolis-actions-row">
+                <fieldset class="cinepolis-fieldset cinepolis-fieldset-actions">
+                    <legend>Acciones</legend>
+                    <div class="cinepolis-actions">
+                        <button type="submit" class="cinepolis-btn">Procesar</button>
+                        <button type="button" class="cinepolis-btn" onclick="document.getElementById('cinepolisForm').reset();">
+                            Salir
+                        </button>
+                    </div>
+                </fieldset>
+            </div>
+        }
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="cinepolis-error">
+                <h3>@ViewBag.Error</h3>
+            </div>
+        }
+    </div>
+</body>
+</html>
