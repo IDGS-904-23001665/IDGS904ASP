@@ -1,0 +1,27 @@
+﻿@model IDGS904ASP.Models.Resistencia
+
+@{
+    string GetTextColor(string colorName)
+    {
+        return (colorName == "Negro" || colorName == "Azul" || colorName == "Café" || colorName == "Gris" || colorName == "Violeta") ? "white" : "black";
+    }
+}
+
+<tr>
+    <td style="background-color: @Model.ObtenerCssColor(Model.Color1); color: @GetTextColor(Model.Color1);" class="text-center fw-bold">
+        @Model.Color1
+    </td>
+    <td style="background-color: @Model.ObtenerCssColor(Model.Color2); color: @GetTextColor(Model.Color2);" class="text-center fw-bold">
+        @Model.Color2
+    </td>
+    <td style="background-color: @Model.ObtenerCssColor(Model.Color3); color: @GetTextColor(Model.Color3);" class="text-center fw-bold">
+        @Model.Color3
+    </td>
+    <td style="background-color: @(Model.Tolerancia == "Oro" ? "#ffd700" : "#c0c0c0"); color: black;" class="text-center fw-bold">
+        @Model.Tolerancia
+        @(Model.Tolerancia == "Oro" ? "5%" : "10%")
+    </td>
+    <td class="text-center">@Model.Valor Ω</td> 
+    <td class="text-center">@Model.ValorMaximo Ω</td>
+    <td class="text-center">@Model.ValorMinimo Ω</td>
+</tr>

@@ -1,0 +1,86 @@
+﻿@model IDGS904ASP.Models.Resistencia
+
+@{
+    var listaColores = new List<SelectListItem>()
+{
+        new SelectListItem()
+        {
+            Text="Negro",
+            Value="Negro"
+        },
+        new SelectListItem()
+        {
+            Text="Café",
+            Value="Café"
+        },
+        new SelectListItem()
+        {
+            Text="Rojo",
+            Value="Rojo"
+        },
+        new SelectListItem()
+        {
+            Text="Naranja",
+            Value="Naranja"
+        },
+        new SelectListItem()
+        {
+            Text="Amarillo",
+            Value="Amarillo"
+        },
+        new SelectListItem()
+        {
+            Text="Verde",
+            Value="Verde"
+        },
+        new SelectListItem()
+        {
+            Text="Azul",
+            Value="Azul"
+        },
+        new SelectListItem()
+        {
+            Text="Violeta",
+            Value="Violeta"
+        },
+        new SelectListItem()
+        {
+            Text="Gris",
+            Value="Gris"
+        },
+        new SelectListItem()
+        {
+            Text="Blanco",
+            Value="Blanco"
+        }
+    };
+}
+
+<div class="row mb-3">
+    <div class="col-md-3">
+        <label class="form-label fw-bold">Primera Banda</label>
+        @Html.DropDownList("Color1", listaColores, new { @class = "form-select" })
+    </div>
+    <div class="col-md-3">
+        <label class="form-label fw-bold">Segunda Banda</label>
+        @Html.DropDownList("Color2", listaColores, new { @class = "form-select" })
+    </div>
+    <div class="col-md-3">
+        <label class="form-label fw-bold">Tercera Banda</label>
+        @Html.DropDownList("Color3", listaColores, new { @class = "form-select" })
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-md-3">
+        <label class="form-label fw-bold">Tolerancia</label>
+        <div>
+            <label class="me-3">
+                <input type="radio" name="Tolerancia" value="Oro" checked /> Oro 5%
+            </label>
+            <label>
+                <input type="radio" name="Tolerancia" value="Plata" /> Plata 10%
+            </label>
+        </div>
+    </div>
+</div>

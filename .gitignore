@@ -1,0 +1,7 @@
+Models/Traductor.cs
+Models/Cifrado.cs
+Controllers/DiccionarioController.cs
+Controllers/EncriptadorController.cs
+Servicios/
+Views/Diccionario/
+Views/Encriptador/

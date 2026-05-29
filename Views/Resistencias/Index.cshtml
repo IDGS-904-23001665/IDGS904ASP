@@ -1,0 +1,41 @@
+﻿@model IDGS904ASP.Models.Resistencia
+
+@{
+    ViewBag.Title = "Calculadora de Resistencias";
+}
+
+<div class="container mt-4">
+    <h2>Calculadora de Resistencias por Código de Colores</h2>
+    <hr />
+
+    @using (Html.BeginForm("Index", "Resistencias", FormMethod.Post, new { id = "resistenciasForm" }))
+    {
+        @Html.EditorForModel()
+
+        <div class="mb-4">
+            <button type="submit" class="btn btn-primary">Registrar</button>
+        </div>
+    }
+
+    @if (ViewBag.Calculado != null && ViewBag.Calculado)
+    {
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped mt-3">
+                <thead class="table-dark text-center">
+                    <tr>
+                        <th>Color 1</th>
+                        <th>Color 2</th>
+                        <th>Color 3</th>
+                        <th>Tolerancia</th>
+                        <th>Valor</th>
+                        <th>Valor Máximo</th>
+                        <th>Valor Mínimo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @Html.DisplayForModel()
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|c:\\idgs904\\dewein\\idgs904asp\\views\\cinepolis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\cinepolis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\content\\cinepolis.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:content\\cinepolis.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\content\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:content\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\controllers\\cinepoliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:controllers\\cinepoliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\models\\cinepolis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:models\\cinepolis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\listas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\listas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\empleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\empleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\displaytemplates\\boolean.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\displaytemplates\\boolean.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\displaytemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\displaytemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\displaytemplates\\persona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\displaytemplates\\persona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\views\\pruebas\\editortemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:views\\pruebas\\editortemplates\\datetime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|C:\\IDGS904\\DEWEIN\\IDGS904ASP\\controllers\\pruebascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:controllers\\pruebascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|c:\\idgs904\\dewein\\idgs904asp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C367F9B-59B5-4871-9FE1-A567CE91DB96}|IDGS904ASP.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,155 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Cinepolis\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cinepolis\\Index.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Cinepolis\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cinepolis\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T00:38:29.362Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-29T20:09:09.267Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "cinepolis.css",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Content\\cinepolis.css",
-              "RelativeDocumentMoniker": "Content\\cinepolis.css",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Content\\cinepolis.css",
-              "RelativeToolTip": "Content\\cinepolis.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-22T00:45:52.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "logo.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [500x500, 24 bits, PNG]",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Content\\logo.png",
-              "RelativeDocumentMoniker": "Content\\logo.png",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Content\\logo.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [500x500, 24 bits, PNG]",
-              "RelativeToolTip": "Content\\logo.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [500x500, 24 bits, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-22T00:45:51.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Listas.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\Listas.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\Listas.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\Listas.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\Listas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T00:19:41.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Persona.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\Persona.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\DisplayTemplates\\Persona.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\Persona.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\DisplayTemplates\\Persona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T23:57:03.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DateTime.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\DateTime.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\DisplayTemplates\\DateTime.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\DateTime.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\DisplayTemplates\\DateTime.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T23:51:19.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Boolean.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\Boolean.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\DisplayTemplates\\Boolean.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\DisplayTemplates\\Boolean.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\DisplayTemplates\\Boolean.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T23:44:52.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Empleado.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\Empleado.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\Empleado.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\Empleado.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\Empleado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T23:37:03.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CinepolisController.cs",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Controllers\\CinepolisController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CinepolisController.cs",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Controllers\\CinepolisController.cs",
-              "RelativeToolTip": "Controllers\\CinepolisController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T02:17:21.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cinepolis.cs",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Models\\Cinepolis.cs",
-              "RelativeDocumentMoniker": "Models\\Cinepolis.cs",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Models\\Cinepolis.cs",
-              "RelativeToolTip": "Models\\Cinepolis.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T02:12:15.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DateTime.cshtml",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\EditorTemplates\\DateTime.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pruebas\\EditorTemplates\\DateTime.cshtml",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Views\\Pruebas\\EditorTemplates\\DateTime.cshtml",
-              "RelativeToolTip": "Views\\Pruebas\\EditorTemplates\\DateTime.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T00:06:44.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PruebasController.cs",
-              "DocumentMoniker": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Controllers\\PruebasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PruebasController.cs",
-              "ToolTip": "C:\\IDGS904\\DEWEIN\\IDGS904ASP\\Controllers\\PruebasController.cs",
-              "RelativeToolTip": "Controllers\\PruebasController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T23:39:08.194Z"
             }
           ]
         }
